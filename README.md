@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola! 👋
+
+Este es el perfil de mi cuenta de github de la Tecnicatura Universitaria en Programacion UTN FRC.
 
 <!--
 **JuanSebaSantacroce/JuanSebaSantacroce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
